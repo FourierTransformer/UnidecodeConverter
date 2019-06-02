@@ -1,5 +1,5 @@
 # Unidecode Converter
-This repo includes a script to convert the Unidecode data tables from perl into JSON. It currently is using [Text-Unidecode-1.27](http://search.cpan.org/~sburke/Text-Unidecode-1.27/).
+This repo includes a script to convert the Unidecode data tables from perl into JSON. It currently is using [Text-Unidecode-1.30](http://search.cpan.org/~sburke/Text-Unidecode-1.30/).
 
 ## Doing the conversion
  1. Download the latest version of [Text::Unidecode](http://search.cpan.org/perldoc/Text::Unidecode)
